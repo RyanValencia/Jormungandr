@@ -1,9 +1,10 @@
 # Jormungandr
 BH STG game made for Washington State University's Cpt_S 487: Software Design & Architecture.
 
-This project was completed by a group of 5 students, most of my contributions to this project are listed below.
+This project was completed by a group of 5 students via Monogame in Visual Studios, most of my contributions to this project are listed below.
 
-To run the program, open the solution in Visual Studios 2019 as it was built with MonoGame.
+To run the program, open the solution in Visual Studios 2019.
+
 (Note: downloading the project and extracting everything may not be all that's required for the project to run.)
 
 
