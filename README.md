@@ -3,7 +3,8 @@ BH STG game made for Washington State University's Cpt_S 487: Software Design & 
 
 This project was completed by a group of 5 students using Monogame.
 
-To run the program, open the solution in Visual Studios 2019.
+To run the program, open the solution in Visual Studios 2019 as it was built with MonoGame.
+(Note: downloading the project and extracting everything may not be all that's required for the project to run.)
 
 
 Outside of planning the development of the game and participating in collaborative development discussions, my contributions were:
